@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ee63e08-79a3-4e9b-9fa8-298148a43f21" width="360"> </p>
 
-<p align="center">THE RENEGADE POKEMON</p>
+<p align="center">" And in that moment, covered in blood, I met God . "</p>
 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/de71ee5e-1131-4082-b890-eadeedbe6d40" width="120"></p>
