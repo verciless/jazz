@@ -19,8 +19,13 @@
 
 <p align="center">" And in that moment, covered in blood, I met God . "</p>
 
+
 <p align="center">
- <img src="https://github.com/user-attachments/assets/de71ee5e-1131-4082-b890-eadeedbe6d40" width="120"></p>
+  <img src="https://github.com/user-attachments/assets/48a654ba-fbbd-4a61-8b93-39f57f75ab5c" width="120">
+  <img src="https://github.com/user-attachments/assets/de71ee5e-1131-4082-b890-eadeedbe6d40" width="100">
+  <img src="https://github.com/user-attachments/assets/a64319a8-3fc6-4641-940b-ff2e4a63cf26" width="120">
+</p>
+
 
 
 <p align="center">
