@@ -17,7 +17,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ee63e08-79a3-4e9b-9fa8-298148a43f21" width="360"> </p>
 
-<p align="center">" And in that moment, covered in blood, I met God . "</p>
+<p align="center">
+  $\color{#952626}{\textsf{" And}}$ $\color{#ad393c}{\textsf{in}}$ $\color{#b6545c}{\textsf{that}}$ $\color{#b76974}{\textsf{moment,}}$ $\color{#b67a87}{\textsf{covered}}$ $\color{#b8848c}{\textsf{in}}$ $\color{#bb9192}{\textsf{blood,}}$ $\color{#bd9e98}{\textsf{I}}$ $\color{#c4afa7}{\textsf{met}}$ $\color{#cabdb5}{\textsf{God}}$ $\color{#cec5bd}{\textsf{. "}}$
+</p>
 
 
 <p align="center">
