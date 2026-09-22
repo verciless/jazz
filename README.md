@@ -25,7 +25,7 @@
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/140ae40a-4f8d-49c1-a21d-8303f699263e" width="20">
-  $\color{#952626}{\textsf{" And}}$ $\color{#ad393c}{\textsf{in}}$ $\color{#b6545c}{\textsf{that}}$ $\color{#b76974}{\textsf{moment,}}$ $\color{#b67a87} {\textsf{covered}}$ $\color{#b8848c}{\textsf{in}}$ $\color{#bb9192}{\textsf{blood,}}$ $\color{#bd9e98}{\textsf{I}}$ $\color{#c4afa7}{\textsf{met}}$ $\color{#cabdb5}{\textsf{God}}$ $\color{#cec5bd}{\textsf{. "}}$
+  $\color{#952626}{\textsf{" 𝐀𝐧𝐝}}$ $\color{#ad393c}{\textsf{𝐢𝐧}}$ $\color{#b6545c}{\textsf{𝐭𝐡𝐚𝐭}}$ $\color{#b76974}{\textsf{𝐦𝐨𝐦𝐞𝐧𝐭,}}$ $\color{#b67a87} {\textsf{𝐜𝐨𝐯𝐞𝐫𝐞𝐝}}$ $\color{#b8848c}{\textsf{𝐢𝐧}}$ $\color{#bb9192}{\textsf{𝐛𝐥𝐨𝐨𝐝,}}$ $\color{#bd9e98}{\textsf{𝐈}}$ $\color{#c4afa7}{\textsf{ 𝐦𝐞𝐭}}$ $\color{#cabdb5}{\textsf{𝐆𝐨𝐝}}$ $\color{#cec5bd}{\textsf{. "}}$
     <img src="https://github.com/user-attachments/assets/75205cde-fe46-44df-8182-05dbe0ca2458" width="17">
 </p>
 
