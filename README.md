@@ -15,9 +15,9 @@
   <img src="https://github.com/user-attachments/assets/08155590-fa1c-40c8-abff-057fd9cc01fc" width="210">
   </p>
 
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/e241af8a-8844-4379-8005-12b36f9a7c93" width="130">
-  <img src="https://github.com/user-attachments/assets/bd2e5df4-094d-45c0-a68f-e3586aec8bca" width="130">
+<p align="center">
+  <a href="https://verciless.atabook.org/"><img src="https://github.com/user-attachments/assets/e241af8a-8844-4379-8005-12b36f9a7c93" width="130"></a>
+  <a href="https://deadlockz.straw.page/"><img src="https://github.com/user-attachments/assets/bd2e5df4-094d-45c0-a68f-e3586aec8bca" width="130"></a>
 </p>
 
 <p align="center">
